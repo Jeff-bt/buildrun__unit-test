@@ -43,3 +43,5 @@ i
 9src/main/java/jeffdev/bankguard/TransactionValidator.java,f\d\fd01c6e7080548f22bb920d9b7bb9920147d8977
 m
 =src/test/java/jeffdev/bankguard/TransactionValidatorTest.java,d\1\d1bc5d48cd16a29e2b4cf50e2ebfe73245d12f65
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
